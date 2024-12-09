@@ -32,7 +32,7 @@ ios america: dhurwegeronav@outlook.com----Pzx85460----qaz1----wsx2----edc3----19
 
 hoebeskflayj@outlook.com----ka7nTp61该账户用微软授权登录----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
 984230315113040183
-![[../Blog/assets/memo1.png]]
+![[../assets/memo1.png]]
 [OpenAI ChatGPT账号批发 - ChatGPT店铺 (scwxq.cn)](https://shop.scwxq.cn/)
 
 华农用户名：105044101903494
