@@ -93,7 +93,7 @@ $$Attention_n(Q_{Decoder},K_{Encoder},V_{Encoder})=softmax(\frac{QK^T}{\sqrt{d_k
 > Encoder的最后一个模块的输出，输入进每个Decoder中，作为Decoder Multi-Head Self-Attention的$Key$和$Value$
 
 - 详细过程：
-![[assets/Transformer-Big.png]]
+![[assets/Transformer_Big.png]]
 
 - **Transformer相关变体**
 $LLaMA$
